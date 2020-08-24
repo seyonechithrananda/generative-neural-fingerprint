@@ -1,5 +1,5 @@
 # Graph Convolutional Networks for Learning Molecular Fingerprints 
-Compilation of models created to learn from + generate molecular graphs using geometric deep learning. 
+Compilation of models for grapb representation learning on molecular graphs for property prediction, QSAR modelling, and more.
 
 You can also check out the fork of the Graph Convolutional Policy Network [a link], a generative model for SMILES strings.  (https://github.com/seyonechithrananda/rl_graph_generation/tree/test)
 
